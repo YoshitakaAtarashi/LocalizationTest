@@ -14,7 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TableCollectionName: LocalizationTable
   m_TableCollectionNameGuidString: 32ab08338b891504287afa2e449ee44a
-  m_Entries: []
+  m_Entries:
+  - m_Id: 129218797568
+    m_Key: text1
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
